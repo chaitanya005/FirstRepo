@@ -13,5 +13,11 @@ ears
 
 BODY
 
+two legs
+two hands
+
+EACH hand - FIVefingers
+Each  LEg- FIVefingers
+
 
 
